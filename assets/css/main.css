@@ -2982,11 +2982,4 @@ input, select, textarea {
 							margin-top: 0;
 						}
 
-	}/* Space between circle icon and text */
-.contact li {
-  padding-left: 3.5em; /* moves text right */
-}
-
-.contact li:before {
-  left: 0.5em; /* moves the circle slightly right */
-}
+	}
